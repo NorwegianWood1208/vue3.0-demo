@@ -1,4 +1,12 @@
-# vue3-study
+# vue3-compositionAPI-study
+
+## 公开课视频地址
+
+[https://www.bilibili.com/video/av69262619/](https://www.bilibili.com/video/av69262619/)
+
+## 公开课笔记地址
+
+[http://www.liulongbin.top:8085/#/](http://www.liulongbin.top:8085/#/)
 
 ## Project setup
 ```
