@@ -10,9 +10,9 @@ import { reactive } from "@vue/composition-api";
 
 export default {
   setup(props, ctx) {
-    // console.log("setup");
-    // console.log(props);
-    // console.log(ctx);
+    console.log('setup');
+    console.log(props);
+    console.log(ctx);
 
     const state = reactive({ count: 0 });
 
@@ -23,10 +23,10 @@ export default {
     return state;
   },
   beforeCreate() {
-    // console.log("beforeCreate");
+    console.log("beforeCreate");
   },
   created() {
-    // console.log("created");
+    console.log("created");
   },
   props: {
     p1: String

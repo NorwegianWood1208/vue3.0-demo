@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <com-setup p1="aaaaaaa" /> -->
+     <com-setup p1="aaaaaaa" />
     <!-- <com-ref /> -->
     <!-- <com-torefs /> -->
     <!-- <com-computed /> -->
